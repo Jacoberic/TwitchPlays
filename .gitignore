@@ -1,0 +1,10 @@
+.venv/**
+.vscode/**
+logs/**
+trials/**
+__pycache__/**
+build/**
+*.spec
+*.pyc
+test*
+*_old.py
